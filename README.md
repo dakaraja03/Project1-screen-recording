@@ -27,7 +27,7 @@ $ node selenium-webdriver.js
 ```
 When ever you run this Command `node selenium-webdriver.js`
 - Authomatically **Firefox browser** will open and run the Javascript **Selenium Test cases** and **Recording the Browser screen** in background. 
-- After all Test cases passed, it shows **output file** is stored in desired path **in console**.
+- After all Test cases passed, it shows **output file** is stored in **desired path in console**.
 
 ## People
-[Daka Raja](https://github.com/dakaraja03),
+[Daka Raja](https://github.com/dakaraja03)
