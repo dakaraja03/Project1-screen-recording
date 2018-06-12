@@ -1,11 +1,13 @@
-#  Survey-Project
-Survey Project is a web application designed to review information about hospitals,products etc. This application has been built on MERN stack.
+# Welcome to Javascript Selenium Project
+This is project developed with **Javascript Selenium** and **Record screen video** 
+- `Selenium-Webdriver` npm package for Javascript Selenium.
+- `screen-capture-recorder` npm package for Record screen.
 
 # Getting Started
 Clone this repository and go to the survey project folder. Run the following command to achieve it.
 ```bash
 $ git clone git@github.com:dakaraja03/Project1-screen-recording.git
-$ cd survey-project
+$ cd Project1-screen-recording
 ```
 
 ## Install the dependencies
